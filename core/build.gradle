@@ -24,6 +24,7 @@ dependencies {
     testImplementation project(path: ':crypto', configuration: 'testArtifacts'),
     "nl.jqno.equalsverifier:equalsverifier:$equalsverifierVersion",
     "ch.qos.logback:logback-classic:$logbackVersion"
+
 }
 
 task createProperties(dependsOn: processResources) doLast {

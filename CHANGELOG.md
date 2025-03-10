@@ -1,6 +1,6 @@
 # Change Log
 
-All notable changes to this project will be documented in this file.
+All qnotable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
 # [4.12.2](https://github.com/hyperledger/web3j/releases/tag/v4.12.2) (2024-09-18)
